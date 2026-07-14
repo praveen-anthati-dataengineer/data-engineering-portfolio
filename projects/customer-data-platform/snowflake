@@ -1,0 +1,8 @@
+01_database.sql
+02_tables.sql
+03_stage.sql
+04_copy_into.sql
+05_snowpipe.sql
+06_stream.sql
+07_task.sql
+08_merge.sql
