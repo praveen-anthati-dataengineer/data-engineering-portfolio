@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,state,country,created_date
+1001,John,Smith,john.smith@gmail.com,2145551001,Texas,USA,2025-01-10
+1002,Mary,Johnson,mary.johnson@gmail.com,4695551002,California,USA,2025-01-15
+1003,David,Williams,david.williams@gmail.com,9725551003,New York,USA,2025-02-01
+1004,Sarah,Brown,sarah.brown@gmail.com,2145551004,Texas,USA,2025-02-10
+1005,Michael,Davis,michael.davis@gmail.com,4695551005,Florida,USA,2025-03-01
+1006,Robert,Miller,robert.miller@gmail.com,9725551006,Texas,USA,2025-03-15
+1007,Linda,Wilson,linda.wilson@gmail.com,2145551007,Arizona,USA,2025-04-01
+1008,James,Moore,james.moore@gmail.com,4695551008,California,USA,2025-04-20
+1009,Patricia,Taylor,patricia.taylor@gmail.com,9725551009,Texas,USA,2025-05-01
+1010,William,Anderson,william.anderson@gmail.com,2145551010,New York,USA,2025-05-15
